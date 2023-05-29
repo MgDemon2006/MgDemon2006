@@ -2,7 +2,7 @@
 
 # Hello, I'm [MgDemon2006]
 
-<img src="path/to/your/photo" align="right" width="150">
+<img src="https://github.dev/MgDemon2006/MgDemon2006/blob/main/Snapchat-1218761352.jpg" align="right" width="150">
 
 Hey there! 👋 I'm a 17-year-old aspiring full-stack developer from Burma (Myanmar). I have a passion for coding and love working with Python, PHP, and frontend and backend technologies.
 
