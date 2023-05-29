@@ -1,8 +1,5 @@
-
-
-# Hello, I'm [MgDemon2006]
-
-<img src="https://github.dev/MgDemon2006/MgDemon2006/blob/main/Snapchat-1218761352.jpg" align="right" width="150">
+## 🙃Hello_World
+<a href="https://anonsharing.com/b403ee8dad3e4e18" target="_blank" title="i"><img src="https://anonsharing.com/cache/plugins/filepreviewer/27347/432b4585c1ad58fefb5af76396f972e4a038b5581c939b9268bb3f77d1d86396/280x280_middle.jpg"/></a>
 
 Hey there! 👋 I'm a 17-year-old aspiring full-stack developer from Burma (Myanmar). I have a passion for coding and love working with Python, PHP, and frontend and backend technologies.
 
