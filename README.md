@@ -36,7 +36,7 @@ Here are some of the projects I've been working on:
 
 <div class="contact-info">
 
-  You can reach me via email at [alphafbi2006@gmail.com](mailto:alphafbi2006@gmail.com) or connect with me on [Facebook](https://www.facebook.com/mrhand.mrhand.9).
+  You can reach me via email at [alphafbi2006@gmail.com](mailto:alphafbi2006@gmail.com) or connect with me on [Facebook](https://www.facebook.com/koalpha.fbi).
 
 </div>
 
